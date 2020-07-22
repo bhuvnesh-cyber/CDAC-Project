@@ -1,5 +1,5 @@
 # Plant-Seedlings-Classification
-The aim of this project is to use deep learning model to classify the plant seedling by using a supervised learning technique.
+This project aimed at using deep learning model to classify the plant seedling by using a supervised learning technique Helping farmers in increasing productivity of crop and assisting in identifying the weed plants in initial stages by designing an intelligent model.
 
 The data-set is available on Kaggle : (https://www.kaggle.com/c/plant-seedlings-classification/data).
 
