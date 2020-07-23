@@ -15,6 +15,11 @@ The training and testing images have been processed by using OpenCV libraries th
 
 Then the training and testing dataset have been normalized by dividing 255.0 to limit the pixel values within 0 to 1 and the labels are one-hot-encoded.
 
+![BAR](https://user-images.githubusercontent.com/57914889/88261621-49251c00-cce4-11ea-894b-61aa7f925af9.PNG)
+
+![CONFUSION](https://user-images.githubusercontent.com/57914889/88261624-4aeedf80-cce4-11ea-90b2-3268a7e65fcc.PNG)
+
+![LOSS](https://user-images.githubusercontent.com/57914889/88261627-4b877600-cce4-11ea-8b20-24d0b19f21d1.PNG)
 ## Convolutional neural network (CNN)
 CNN is a good choice while dealing with the image data. Designed CNN architecture based on personal experience, knowledge and, most important, the machine learning community and forum helps. The time spent a lot on tuning the model hyper-parameters in order to achieve higher accuracy and lower residual for model training. So that the model predicting the unseen data will have a higher chance to obtain the correct result. Of course, there is plenty of other powerful CNN available such as AlexNet, ResNet and more, those networks may also suitable applying in this data-set.
 
